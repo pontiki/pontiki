@@ -1,4 +1,4 @@
-
+![Pontiki Software Crafts Logo](./logo-02.128.jpg)
 
 # Pontiki Software Crafts
 
